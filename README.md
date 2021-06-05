@@ -23,4 +23,5 @@
 
 ## About
 
-<p>Safemoon is a hyper-deflationary reflection token with an inherent burn.</p>
+<p>The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions 
+occur during each trade: Reflection, LP Acquisition, and Burn.</p>
